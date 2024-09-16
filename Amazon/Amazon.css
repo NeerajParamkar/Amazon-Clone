@@ -1,0 +1,468 @@
+*{
+    margin:0;
+    outline:none;
+    padding:0;
+    font-family:sans-serif;
+    border:border-box;
+    list-style-type: none;
+}
+.border{
+    border:1.5px solid tranaparent;
+}
+.border:hover{
+    border:1.5px solid white;
+    padding:0.6px;
+}
+.navbar{
+    background-color:black;
+    height:60px;
+    width:1263px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    
+}
+.navlogo{
+    height:60px;
+    width:128px;
+}
+.logo{
+    background-image:url("Images/amazon_logo.png");
+    height:60px;
+    width:100%;
+    background-size:cover;
+}
+.location{
+    color:white;
+}
+.loc-up{
+    margin-left:16px;
+    opacity:0.8;
+    font-size:0.8rem;
+}
+.loc-down{
+    display:flex;
+}
+.loc-down i{
+    opacity:0.8; 
+}
+.loc-down p{
+    display:flex;
+    font-weight:700;
+    margin-left:5px;
+    font-size:0.9rem;
+}
+.search-magni{
+    color:white;
+    height:35px;
+    width:50px;
+    background-color:#ffae42;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px; 
+    color:black;
+}
+.search-box{
+    display:flex;
+    width:45%;
+    border-radius:5px;
+    height:35px;
+}
+.search-all{
+    border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+    border:none;
+    width:45px;
+    background-color:#dcdcdc;
+}
+.search-ip{
+    border:none;
+    width:450px;
+}
+.sel-count-main{
+    display:flex;
+}
+.sel-count{
+    height:13px;
+    width:25px;
+    margin-top:3px;
+
+}
+.sel-count-img{
+    background-image:url("Images/ind-flag.png");
+    height:13px;
+    width:100%;
+    background-size:cover;
+}
+.sel-count1{
+    background-color:black;
+    color:white;
+    border:none;
+    font-weight:700;
+}
+.acc-and-lists{
+    color:white;
+}
+.return-order{
+    color:white;
+}
+.cart{
+    color:white;
+    display:flex;
+}
+.hello{
+    font-size:12px;
+    opacity:0.9;
+    font-weight:300;
+}
+.ac-and-lis{
+    font-size:13px;
+    font-weight:700;
+}
+.cart i{
+    font-size:25px;
+}
+.cart p{
+    font-size:15px;
+    margin-top:8px;
+    font-weight:700;
+}
+.panel{
+    height:40px;
+    background-color:#232f3e;
+    display:flex;
+    color:white;
+    align-items:center;
+    justify-content:space-evenly;
+}
+.pan1 p{
+    margin-left:7px;
+    margin-top:2px;
+    font-size:14px;
+}
+.pan1 i{
+    font-size:18px;
+}
+.pan-ops{
+    
+}
+.pan1{
+    display:flex;
+    margin:10px 15px 10px 20px;
+}
+.panel-ops{
+    display:flex;
+    font-size:13px;
+    font-weight:500;
+    width:60%;
+}
+.pan-img{
+    height:36px;
+    width:400px;
+}
+.panel-image{
+    background-image:url("Images/panelimage.jpg");
+    height:36px;
+    width:100%;
+    background-size:cover;
+}
+.panel-ops a p{
+    margin:10px;
+    font-weight:600;
+    color:white;
+}
+.panel-ops a{
+    text-decoration:none;
+}
+.back-image{
+    height:500px;
+    width:100%;
+}
+.main-image{
+    background-image:url("Images/hero-image.jpg");
+    height:500px;
+    width:100%;
+    background-size:cover;
+    display:flex;
+}
+.box1, .box2 ,.box3, .box4{
+    height:400px;
+    width:300px;
+    background-color:white;
+    margin:250px 10px 50px 10px;
+}
+.main-box2{
+    background-color:pink;
+}
+.box1 p ,.box2 p ,.box3 p{
+    font-size:1.5rem;
+    margin:30px 20px 30px 20px;
+    font-weight:550;
+}
+.box4 pre{
+    font-size:1.5rem;
+    font-weight:550; 
+    display:inline;
+    margin:10px;
+}
+.box1 img{
+    height:70px;
+    width:100px;
+}
+.box1s img{
+   padding:20px;
+}
+.box2s img{
+    height:90px;
+    width:115px;
+    padding:10px;
+}
+.box3s img{
+    height:90px;
+    width:110px;
+    padding:10px;
+}
+.box4{
+    height:400px;
+    margin-bottom:0px;    
+}
+.main4-4{
+    background-color:#e0218a;
+    height:30px;
+    
+}
+.add video{
+     border:none;
+     height:169px;
+     width:300px;
+}
+.add-img{
+  display:flex;
+}
+.add img{
+    height:69px;
+    width:100px;
+}
+#add-price{
+    width:200px;
+    height:69px;
+
+}
+.box4-img{
+    display:flex;
+}
+.main4{
+    display:flex;
+}
+.box4-img img{
+    margin:25px 8px 0px 0px;
+    height:90px;
+    width:85px;
+}
+.main-box2{
+    height:650px;
+    width:100%;
+    background-color:#d3d3d3;
+    display:flex;
+}
+.mbox2 ,.mbox3{
+    height:400px;
+    width:295.75px;
+    background-color:white;
+    margin:170px 10px 0px 10px;
+}
+.mbox1{
+    height:400px;
+    width:612.50px;
+    background-color:white;
+    margin:170px 10px 0px 10px;
+}
+.mbox1 img{
+    height:305px;
+    width:612.50px;
+}
+.mbox1 p{
+    font-size:1.2rem;
+    font-weight:700;
+    background-color:black;
+    color:white;
+    height:25px;
+    padding-top:25px;
+    padding-left:10px;
+}
+#mov2{
+    font-size:0.9rem;
+    font-weight:700;
+    background-color:black;
+    color:white;
+    height:20px;
+}
+.mbox2 p,.mbox3 p{
+    font-size:1.2rem;
+    font-weight:650;
+    padding:35px;
+}
+.mbox2 img,.mbox3 img{
+    margin:60px;
+}
+.foot-up{
+    height:50px;
+    background-color:#132739;
+    margin-top:650px;
+}
+.foot-up p{
+    color:white;
+    padding:15px 590px;
+    font-size:0.9rem;
+    font-weight:700; 
+}
+.foot-down{
+    background-color:#232f3e ;
+    height:500px;
+}
+.foot-up:hover{
+    opacity:0.8;
+}
+.options ul{
+    color:white;
+}
+.foot-down .options{
+    display:flex;
+}
+.list1 ,.list2 ,.list3 ,.list4{
+    margin:70px;
+}
+.mlist{
+    margin:9px;
+    opacity:0.9;
+    font-size:0.85rem;
+    font-weight:450;
+}
+.mlistn{
+    opacity:1;
+    font-size:0.93rem;
+    font-weight:700;
+}
+hr{
+    margin:10px;
+    opacity:0.7;
+}
+.main-log{
+    display:flex;
+    justify-content:center;
+}
+.d-logo{
+    height:60px;
+    width:100px;
+    margin:10px 80px 0px 0px;
+}
+.dlogo{
+    background-image:url("Images/amazon_logo.png");
+    height:60px;
+    white:100%;
+    background-size:cover;
+}
+.eng-glb{
+    display:flex;
+}
+.eng-glb i{
+    margin:10px;
+    color:white;
+}
+.fla{
+    height:10px;
+    width:15px;
+    margin:15px 0px 0px 8px;
+}
+.fla2{
+    background-image:url("Images/ind-flag.png");
+    height:10px;
+    width:100%;
+    background-size:cover;
+}
+.flag-ind{
+    display:flex;
+}
+.flag-ind p{
+    color:white;
+    margin:11px 10px 0px 8px;
+}
+.eng-glb{
+    border:1px solid white;
+    margin:15px;
+    border-radius:2px;
+    opacity:0.6;
+
+}
+.flag-ind{
+    border:1px solid white;
+    margin:15px;
+    border-radius:2px;
+    opacity:0.6;
+}
+.lang{
+    background-color:#232f3e;
+    color:white;
+}
+.las-p{
+    height:300px;
+    background-color:#131a22;
+}
+.abu{
+    margin:20px;
+    color:white;
+}
+.group4-1 ,.group4-2{
+    display:flex;
+    justify-content:space-evenly;
+    padding-top:30px;
+}
+.main-h{
+    font-size:0.75rem;
+    opacity:0.85;
+}
+.sub-h{
+    font-size:0.75rem;
+    opacity:0.6;
+}
+.lastp p{
+    color:white;
+    font-size:0.75rem;
+    opacity:0.8;
+    margin-left:450px; 
+}
+#lp2{
+    margin-left:480px;
+}
+.show2-name{
+    font-size:0.85rem;
+    font-weight:550;
+    opacity:0.9;
+    margin-left:5px;
+}
+.show1-name{
+    font-size:0.85rem;
+    font-weight:550;
+    opacity:0.9;
+    margin-left:12px;
+}
+.show3-name{
+    font-size:0.85rem;
+    font-weight:550;
+    opacity:0.9;
+    margin-left:40px;
+}
+.show4-name{
+    font-size:0.85rem;
+    font-weight:550;
+    opacity:0.9;
+    margin-left:25px;
+}
+.show5-name{
+    font-size:0.85rem;
+    font-weight:550;
+    opacity:0.9;
+    margin-left:50px;
+}
