@@ -16,7 +16,7 @@
 .navbar{
     background-color:black;
     height:60px;
-    width:1263px;
+    width:100%;
     display:flex;
     justify-content:space-evenly;
     align-items:center;
