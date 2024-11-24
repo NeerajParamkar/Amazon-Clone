@@ -191,7 +191,7 @@
     height:400px;
     width:300px;
     background-color:white;
-    margin:250px 10px 50px 10px;
+    margin:250px 30px 50px 30px;
 }
 .main-box2{
     background-color:pink;
@@ -267,17 +267,23 @@
     background-color:#d3d3d3;
     display:flex;
 }
-.mbox2 ,.mbox3{
+.mbox2 {
     height:400px;
     width:295.75px;
     background-color:white;
-    margin:170px 10px 0px 10px;
+    margin:190px 20px 30px 55px;
+}
+.mbox3{
+    height:400px;
+    width:295.75px;
+    background-color:white;
+    margin:190px 40px 0px 55px;
 }
 .mbox1{
     height:400px;
     width:612.50px;
     background-color:white;
-    margin:170px 10px 0px 10px;
+    margin:190px 33px 40px 50px;
 }
 .mbox1 img{
     height:305px;
