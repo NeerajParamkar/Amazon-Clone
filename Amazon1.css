@@ -189,9 +189,9 @@
 }
 .box1, .box2 ,.box3, .box4{
     height:400px;
-    width:330px;
+    width:300px;
     background-color:white;
-    margin:250px 20px 50px 20px;
+    margin:250px 30px 50px 30px;
 }
 .main-box2{
     background-color:pink;
