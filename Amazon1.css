@@ -27,7 +27,7 @@
     width:128px;
 }
 .logo{
-    background-image:url("Images/amazon_logo.png");
+    background-image:url("amazon_logo.png");
     height:60px;
     width:100%;
     background-size:cover;
@@ -91,7 +91,7 @@
 
 }
 .sel-count-img{
-    background-image:url("Images/ind-flag.png");
+    background-image:url("ind-flag.png");
     height:13px;
     width:100%;
     background-size:cover;
@@ -163,7 +163,7 @@
     width:400px;
 }
 .panel-image{
-    background-image:url("Images/panelimage.jpg");
+    background-image:url("panelimage.jpg");
     height:36px;
     width:100%;
     background-size:cover;
@@ -181,7 +181,7 @@
     width:100%;
 }
 .main-image{
-    background-image:url("Images/hero-image.jpg");
+    background-image:url("hero-image.jpg");
     height:500px;
     width:100%;
     background-size:cover;
@@ -359,7 +359,7 @@ hr{
     margin:10px 80px 0px 0px;
 }
 .dlogo{
-    background-image:url("Images/amazon_logo.png");
+    background-image:url("amazon_logo.png");
     height:60px;
     white:100%;
     background-size:cover;
@@ -377,7 +377,7 @@ hr{
     margin:15px 0px 0px 8px;
 }
 .fla2{
-    background-image:url("Images/ind-flag.png");
+    background-image:url("ind-flag.png");
     height:10px;
     width:100%;
     background-size:cover;
